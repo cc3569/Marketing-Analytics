@@ -1,1 +1,1 @@
-# Marketing-Analytics
+# NAU BAN 548: Marketing Analytics
